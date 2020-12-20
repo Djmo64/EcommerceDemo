@@ -1,0 +1,203 @@
+[
+    {
+        "id" : 0,
+        "Title" : "Nvidia 2019 Gaming/Rendering PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp1"
+
+    },{
+        "id" : 0,
+        "Title" : "GIZMOPOWER GAMING PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 2750,
+        "Image" : "Comp2"
+
+    },{
+        "id" : 0,
+        "Title" : "ASUS ROG Strix G15CK Gaming and Entertainment Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 26722,
+        "Image" : "Comp3"
+
+    },{
+        "id" : 0,
+        "Title" : "HP Z8 G4 Workstation Intel Xeon",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 22900,
+        "Image" : "Comp4"
+
+    },{
+        "id" : 0,
+        "Title" : "HP Pavilion TG01-0170m Gaming and Business Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 21210,
+        "Image" : "Comp5"
+
+    },{
+        "id" : 0,
+        "Title" : "ASUS ROG Strix GL10DH Gaming and Entertainment Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 19135,
+        "Image" : "Comp6"
+
+    },{
+        "id" : 0,
+        "Title" : "HP Z8 G4 Workstation Intel Xeon Gold",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 18800,
+        "Image" : "Comp7"
+
+    },{
+        "id" : 0,
+        "Title" : "HP Z2 Mini G4 Home and Business Desktop Black",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp8"
+
+    },{
+        "id" : 0,
+        "Title" : "ASUS ROG Strix G15CK Gaming and Entertainment Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 15022,
+        "Image" : "Comp9"
+
+    },{
+        "id" : 0,
+        "Title" : "CyberpowerPC Gamer Supreme Liquid Cool Desktop Computer",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 14796,
+        "Image" : "Comp10"
+
+    },{
+        "id" : 0,
+        "Title" : "Alienware Area-51 Desktop",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp11"
+
+    },{
+        "id" : 0,
+        "Title" : "Alienware Aurora R9 Gaming Desktop",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 13000,
+        "Image" : "Comp12"
+
+    },{
+        "id" : 0,
+        "Title" : "Lenovo Legion T730-28ICO 90JF00BSUS Gaming Desktop Computer",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp13"
+
+    },{
+        "id" : 0,
+        "Title" : "Asus ROG Strix GA35 G35DX-AE007T Gaming Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 11899,
+        "Image" : "Comp14"
+
+    },{
+        "id" : 0,
+        "Title" : "Dell Precision T3630 Intel 2224G Processor",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 5868,
+        "Image" : "Comp15"
+
+    },{
+        "id" : 0,
+        "Title" : "HP Pavilion TG01-0170m Gaming and Business Desktop PC",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 5870,
+        "Image" : "Comp16"
+
+    },{
+        "id" : 0,
+        "Title" : "Intel NUC NUC7i7DNHE Small Form Factor Home and Business Mini Desktop",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 5860,
+        "Image" : "Comp17"
+
+    },{
+        "id" : 0,
+        "Title" : "Philips 246E9QHSW 24-inch E Line Full HD IPS monitor Ultra Wide",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp18"
+
+    },{
+        "id" : 0,
+        "Title" : "HP 2XN60AA#ABU 24F Display Monitor LED,23.8 Inches",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 525,
+        "Image" : "Comp19"
+
+    },{
+        "id" : 0,
+        "Title" : "Samsung 32 inch CF391 Curved Monitor",
+        "Star" : 5,
+        "Station" : "Comp",
+        "Limited" : true,
+        "Sec" : "Hardware",
+        "Price" : 0,
+        "Image" : "Comp20"
+
+    }
+]
